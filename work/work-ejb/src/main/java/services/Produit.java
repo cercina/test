@@ -41,6 +41,11 @@ public class Produit {
 	public Produit() {
 		
 	}
+public int test() {
+		return 0;
+	}
+	
+	
 	
 	
 	
